@@ -1,0 +1,9894 @@
+[
+ {
+  "id": "lunren-001",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "約",
+  "sentence": "不可以久處約。",
+  "definition": "窮困",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-002",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "知者",
+  "sentence": "仁者安仁，知者利仁。",
+  "definition": "聰明的人",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "智",
+  "note": null
+ },
+ {
+  "id": "lunren-003",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "利",
+  "sentence": "知者利仁。",
+  "definition": "利用",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-004",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "處",
+  "sentence": "不以其道得之，不處也。",
+  "definition": "接受、處身",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-005",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "安",
+  "sentence": "仁者安仁。",
+  "definition": "安於",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-006",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "去",
+  "sentence": "不以其道得之，不去也。",
+  "definition": "擺脫",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-007",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "去",
+  "sentence": "君子去仁，惡乎成名？",
+  "definition": "捨棄",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-008",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "惡",
+  "sentence": "君子去仁，惡乎成名？",
+  "definition": "何、怎樣",
+  "pos": "疑問代詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-009",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "終食之間",
+  "sentence": "君子無終食之間違仁。",
+  "definition": "吃一頓飯的時間",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-010",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "造次",
+  "sentence": "造次必於是。",
+  "definition": "倉促、緊迫",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-011",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "由",
+  "sentence": "爲仁由己，而由人乎哉？",
+  "definition": "憑",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-012",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "敏",
+  "sentence": "回雖不敏，請事斯語矣。",
+  "definition": "聰敏",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-013",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "克",
+  "sentence": "克己復禮為仁。",
+  "definition": "克制",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-014",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "歸",
+  "sentence": "天下歸仁焉。",
+  "definition": "歸向",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-015",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "目",
+  "sentence": "請問其目。",
+  "definition": "條目",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-016",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "事",
+  "sentence": "回雖不敏，請事斯語矣。",
+  "definition": "實踐",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-017",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "惡",
+  "sentence": "貧與賤，是人之所惡也。",
+  "definition": "厭惡",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-018",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "顛沛",
+  "sentence": "顛沛必於是。",
+  "definition": "困頓挫折、流離失所",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-019",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "違",
+  "sentence": "君子無終食之間違仁。",
+  "definition": "離開、違背",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-020",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "復",
+  "sentence": "克己復禮為仁。",
+  "definition": "回復、踐行",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-021",
+  "fanwen_code": "lunren",
+  "piece": "論仁",
+  "word": "勿",
+  "sentence": "非禮勿視，非禮勿聽。",
+  "definition": "不要",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-022",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "無違",
+  "sentence": "無違。",
+  "definition": "不要違背（禮）",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-023",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "御",
+  "sentence": "樊遲御。",
+  "definition": "驅車",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-024",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "事",
+  "sentence": "生，事之以禮。",
+  "definition": "侍奉",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-025",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "養",
+  "sentence": "今之孝者，是謂能養。",
+  "definition": "供養",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-026",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "養",
+  "sentence": "至於犬馬，皆能有養。",
+  "definition": "飼養",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-027",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "幾",
+  "sentence": "事父母幾諫。",
+  "definition": "婉轉",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-028",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "志",
+  "sentence": "見志不從。",
+  "definition": "意見",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-029",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "不違",
+  "sentence": "又敬不違。",
+  "definition": "不觸犯、不違逆（父母）",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-030",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "勞",
+  "sentence": "勞而不怨。",
+  "definition": "憂愁、操勞",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-031",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "葬",
+  "sentence": "死葬之以禮。",
+  "definition": "埋葬",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-032",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "祭",
+  "sentence": "祭之以禮。",
+  "definition": "祭祀",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-033",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "色",
+  "sentence": "色難。",
+  "definition": "和悅的臉色",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-034",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "服",
+  "sentence": "有事，弟子服其勞。",
+  "definition": "承擔、從事",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-035",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "勞",
+  "sentence": "有事，弟子服其勞。",
+  "definition": "勞務、操勞的事",
+  "pos": "名詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-036",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "先生",
+  "sentence": "有酒食，先生饌。",
+  "definition": "父兄、長輩",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指老師或對男子的尊稱"
+ },
+ {
+  "id": "lunren-037",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "饌",
+  "sentence": "有酒食，先生饌。",
+  "definition": "吃喝、享用",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-038",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "曾",
+  "sentence": "曾是以為孝乎？",
+  "definition": "竟然、難道",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-039",
+  "fanwen_code": "lunren",
+  "piece": "論孝",
+  "word": "別",
+  "sentence": "不敬，何以別乎？",
+  "definition": "區別",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-040",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "病",
+  "sentence": "君子病無能焉。",
+  "definition": "擔憂、憂慮",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞，以……為憂"
+ },
+ {
+  "id": "lunren-041",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "求",
+  "sentence": "君子求諸己，小人求諸人。",
+  "definition": "責求",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-042",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "諸",
+  "sentence": "君子求諸己，小人求諸人。",
+  "definition": "之於",
+  "pos": "兼詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-043",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "恥",
+  "sentence": "君子恥其言而過其行。",
+  "definition": "以……為恥",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "意動用法"
+ },
+ {
+  "id": "lunren-044",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "孫",
+  "sentence": "君子義以為質，禮以行之，孫以出之。",
+  "definition": "謙遜",
+  "pos": "形容詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "遜",
+  "note": null
+ },
+ {
+  "id": "lunren-045",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "信",
+  "sentence": "信以成之。",
+  "definition": "誠信",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-046",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "固",
+  "sentence": "學則不固。",
+  "definition": "鞏固、穩固",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-047",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "行",
+  "sentence": "君子恥其言而過其行。",
+  "definition": "行為",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-048",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "成",
+  "sentence": "不成人之惡。",
+  "definition": "促成",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-049",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "成",
+  "sentence": "君子成人之美。",
+  "definition": "成全",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-050",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "過",
+  "sentence": "君子恥其言而過其行。",
+  "definition": "超過",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-051",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "過",
+  "sentence": "過則勿憚改。",
+  "definition": "過錯",
+  "pos": "名詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-052",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "重",
+  "sentence": "君子不重則不威。",
+  "definition": "莊重",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-053",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "威",
+  "sentence": "君子不重則不威。",
+  "definition": "威嚴",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-054",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "主",
+  "sentence": "主忠信。",
+  "definition": "以……為主、親近",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-055",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "友",
+  "sentence": "無友不如己者。",
+  "definition": "結交為朋友",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lunren-056",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "憚",
+  "sentence": "過則勿憚改。",
+  "definition": "害怕",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-057",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "質",
+  "sentence": "君子義以為質。",
+  "definition": "本質、根本",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lunren-058",
+  "fanwen_code": "lunren",
+  "piece": "論君子",
+  "word": "反",
+  "sentence": "小人反是。",
+  "definition": "相反",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-001",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "舍",
+  "sentence": "舍魚而取熊掌者也。",
+  "definition": "捨棄",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-002",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "苟",
+  "sentence": "故不為苟得也。",
+  "definition": "苟且、隨便",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-003",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "惡",
+  "sentence": "死亦我所惡。",
+  "definition": "憎厭",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-004",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "患",
+  "sentence": "故患有所不辟也。",
+  "definition": "禍患",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-005",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "辟",
+  "sentence": "故患有所不辟也。",
+  "definition": "逃避",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "避",
+  "note": null
+ },
+ {
+  "id": "yuwo-006",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "如使",
+  "sentence": "如使人之所欲莫甚於生。",
+  "definition": "假如",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-007",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "是心",
+  "sentence": "非獨賢者有是心也。",
+  "definition": "這個本心（捨生取義的心）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-008",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "喪",
+  "sentence": "賢者能勿喪耳。",
+  "definition": "喪失",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-009",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "耳",
+  "sentence": "賢者能勿喪耳。",
+  "definition": "而已",
+  "pos": "助詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-010",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "羹",
+  "sentence": "一簞食，一豆羹。",
+  "definition": "帶汁的肉食",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-011",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "弗",
+  "sentence": "得之則生，弗得則死。",
+  "definition": "不",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-012",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "嘑",
+  "sentence": "嘑爾而與之。",
+  "definition": "呼喝、吆喝",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-013",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "與",
+  "sentence": "嘑爾而與之。",
+  "definition": "給予",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-014",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "行道之人",
+  "sentence": "行道之人弗受。",
+  "definition": "路過的饑民",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-015",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "蹴",
+  "sentence": "蹴爾而與之。",
+  "definition": "踐踏",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-016",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "不屑",
+  "sentence": "乞人不屑也。",
+  "definition": "不願意、認為不值得",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-017",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "萬鍾",
+  "sentence": "萬鍾則不辯禮義而受之。",
+  "definition": "優厚的俸祿",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-018",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "辯",
+  "sentence": "萬鍾則不辯禮義而受之。",
+  "definition": "分辨",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "辨",
+  "note": null
+ },
+ {
+  "id": "yuwo-019",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "奉",
+  "sentence": "妻妾之奉。",
+  "definition": "侍奉",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-020",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "窮乏",
+  "sentence": "所識窮乏者得我與。",
+  "definition": "貧困",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-021",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "得",
+  "sentence": "所識窮乏者得我與？",
+  "definition": "感激",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "德",
+  "note": null
+ },
+ {
+  "id": "yuwo-022",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "與",
+  "sentence": "所識窮乏者得我與？",
+  "definition": "嗎",
+  "pos": "語氣詞",
+  "categories": [
+   "通假字",
+   "一詞多義"
+  ],
+  "tongjia": "歟",
+  "note": null
+ },
+ {
+  "id": "yuwo-023",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "鄉",
+  "sentence": "鄉為身死而不受。",
+  "definition": "從前",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "向",
+  "note": null
+ },
+ {
+  "id": "yuwo-024",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "已",
+  "sentence": "是亦不可以已乎？",
+  "definition": "停止",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-025",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "本心",
+  "sentence": "此之謂失其本心。",
+  "definition": "羞惡之心",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-026",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "欲",
+  "sentence": "魚，我所欲也。",
+  "definition": "想要",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-027",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "兼",
+  "sentence": "二者不可得兼。",
+  "definition": "同時得到",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-028",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "取",
+  "sentence": "舍魚而取熊掌者也。",
+  "definition": "選取",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-029",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "甚",
+  "sentence": "所欲有甚於生者。",
+  "definition": "超過",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-030",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "苟得",
+  "sentence": "故不為苟得也。",
+  "definition": "苟且取得",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-031",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "莫",
+  "sentence": "使人之所欲莫甚於生。",
+  "definition": "沒有（什麼）",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "無定代詞"
+ },
+ {
+  "id": "yuwo-032",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "由是",
+  "sentence": "由是則生而有不用也。",
+  "definition": "通過這種辦法",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-033",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "是故",
+  "sentence": "是故所欲有甚於生者。",
+  "definition": "因此",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-034",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "非獨",
+  "sentence": "非獨賢者有是心也。",
+  "definition": "不單是",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-035",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "勿喪",
+  "sentence": "賢者能勿喪耳。",
+  "definition": "不喪失",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-036",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "簞",
+  "sentence": "一簞食。",
+  "definition": "盛飯的竹器",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-037",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "豆",
+  "sentence": "一豆羹。",
+  "definition": "盛肉的木器",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-038",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "嘑爾",
+  "sentence": "嘑爾而與之，行道之人弗受。",
+  "definition": "大聲呼喝、不客氣的樣子",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-039",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "蹴爾",
+  "sentence": "蹴爾而與之。",
+  "definition": "踐踏的樣子",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-040",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "加",
+  "sentence": "萬鍾於我何加焉。",
+  "definition": "益處",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-041",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "為",
+  "sentence": "鄉為身死而不受，今為宮室之美為之。",
+  "definition": "為了",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-042",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "宮室",
+  "sentence": "今為宮室之美為之。",
+  "definition": "住宅、房屋",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-043",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "所識",
+  "sentence": "今為所識窮乏者得我而為之。",
+  "definition": "所認識的人",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yuwo-044",
+  "fanwen_code": "yuwo",
+  "piece": null,
+  "word": "受",
+  "sentence": "嘑爾而與之，行道之人弗受。",
+  "definition": "接受",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-001",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "剖",
+  "sentence": "剖之以為瓢。",
+  "definition": "劈開",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-002",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "掊",
+  "sentence": "吾為其無用而掊之。",
+  "definition": "擊破、打碎",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-003",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "龜",
+  "sentence": "不龜手之藥。",
+  "definition": "皮膚凍裂",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "皸",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-004",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "封",
+  "sentence": "裂地而封之。",
+  "definition": "封賞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-005",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "卷",
+  "sentence": "其小枝卷曲而不中規矩。",
+  "definition": "彎曲",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "蜷",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-006",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "夭",
+  "sentence": "不夭斤斧。",
+  "definition": "夭折，指樹木未長成便被砍伐",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-007",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "困苦",
+  "sentence": "安所困苦哉。",
+  "definition": "感到困苦",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-008",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "中",
+  "sentence": "中於機辟，死於罔罟。",
+  "definition": "踏中",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-009",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "中",
+  "sentence": "其大本擁腫而不中繩墨。",
+  "definition": "符合",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-010",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "事",
+  "sentence": "世世以洴澼絖為事。",
+  "definition": "事業",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-011",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "去",
+  "sentence": "大而無用，眾所同去也。",
+  "definition": "離棄",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-012",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "固",
+  "sentence": "夫子固拙於用大矣。",
+  "definition": "確實",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-013",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "將",
+  "sentence": "越有難，吳王使之將。",
+  "definition": "領兵",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-014",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "患",
+  "sentence": "今子有大樹，患其無用。",
+  "definition": "擔憂",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-015",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "猶",
+  "sentence": "則夫子猶有蓬之心也夫。",
+  "definition": "還、仍然",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-016",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "獨",
+  "sentence": "子獨不見狸狌乎？",
+  "definition": "難道",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-017",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "貽",
+  "sentence": "魏王貽我大瓠之種。",
+  "definition": "贈送",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-018",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "辟",
+  "sentence": "東西跳梁，不辟高下。",
+  "definition": "躲避",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "避",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-019",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "鄉",
+  "sentence": "何不樹之於無何有之鄉。",
+  "definition": "地方",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-020",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "樹",
+  "sentence": "我樹之成而實五石。",
+  "definition": "種植",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "xiaoyao-021",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "實",
+  "sentence": "我樹之成而實五石。",
+  "definition": "容納、充實",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-022",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "盛",
+  "sentence": "以盛水漿，其堅不能自舉也。",
+  "definition": "盛載",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-023",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "舉",
+  "sentence": "其堅不能自舉也。",
+  "definition": "舉起",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-024",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "瓠落",
+  "sentence": "剖之以為瓢，則瓠落無所容。",
+  "definition": "大而平淺的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "「瓠落」即「廓落」"
+ },
+ {
+  "id": "xiaoyao-025",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "呺然",
+  "sentence": "非不呺然大也。",
+  "definition": "空虛而巨大的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-026",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "為",
+  "sentence": "吾為其無用而掊之。",
+  "definition": "因為",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-027",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "善",
+  "sentence": "宋人有善為不龜手之藥者。",
+  "definition": "擅長",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-028",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "洴澼絖",
+  "sentence": "世世以洴澼絖為事。",
+  "definition": "在水中漂洗棉絮",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-029",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "方",
+  "sentence": "客聞之，請買其方百金。",
+  "definition": "藥方",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-030",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "謀",
+  "sentence": "聚族而謀。",
+  "definition": "商量",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-031",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "鬻",
+  "sentence": "今一朝而鬻技百金。",
+  "definition": "賣",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-032",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "說",
+  "sentence": "客得之，以說吳王。",
+  "definition": "遊說",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-033",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "難",
+  "sentence": "越有難，吳王使之將。",
+  "definition": "戰事、發難",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-034",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "水",
+  "sentence": "冬與越人水戰。",
+  "definition": "在水上",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作狀語"
+ },
+ {
+  "id": "xiaoyao-035",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "裂",
+  "sentence": "裂地而封之。",
+  "definition": "分割",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-036",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "或",
+  "sentence": "或以封，或不免於洴澼絖。",
+  "definition": "有的人",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-037",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "慮",
+  "sentence": "何不慮以為大樽而浮乎江湖？",
+  "definition": "結縛、繫上（一說考慮）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-038",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "樽",
+  "sentence": "何不慮以為大樽而浮乎江湖？",
+  "definition": "酒器，此指形似酒樽、可縛於身上浮水的腰舟",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-039",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "蓬之心",
+  "sentence": "則夫子猶有蓬之心也夫！",
+  "definition": "比喻見識淺陋、茅塞不通的心",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-040",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "樗",
+  "sentence": "吾有大樹，人謂之樗。",
+  "definition": "臭椿樹",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-041",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "本",
+  "sentence": "其大本擁腫而不中繩墨。",
+  "definition": "樹幹",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-042",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "擁腫",
+  "sentence": "其大本擁腫而不中繩墨。",
+  "definition": "樹幹上木瘤盤結、不平直",
+  "pos": "形容詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "臃",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-043",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "繩墨",
+  "sentence": "其大本擁腫而不中繩墨。",
+  "definition": "木匠用來取直的墨線",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-044",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "塗",
+  "sentence": "立之塗，匠者不顧。",
+  "definition": "道路",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "途",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-045",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "顧",
+  "sentence": "立之塗，匠者不顧。",
+  "definition": "回頭看、理睬",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-046",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "狸狌",
+  "sentence": "子獨不見狸狌乎？",
+  "definition": "野貓和黃鼠狼",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-047",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "候",
+  "sentence": "卑身而伏，以候敖者。",
+  "definition": "等候",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-048",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "敖者",
+  "sentence": "卑身而伏，以候敖者。",
+  "definition": "出遊的小動物",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "遨",
+  "note": null
+ },
+ {
+  "id": "xiaoyao-049",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "跳梁",
+  "sentence": "東西跳梁，不辟高下。",
+  "definition": "跳躍",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-050",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "機辟",
+  "sentence": "中於機辟，死於罔罟。",
+  "definition": "捕捉鳥獸的機關",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-051",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "罔罟",
+  "sentence": "中於機辟，死於罔罟。",
+  "definition": "捕捉鳥獸的網",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "網",
+  "note": "「罔」通「網」"
+ },
+ {
+  "id": "xiaoyao-052",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "執",
+  "sentence": "此能為大矣，而不能執鼠。",
+  "definition": "捉、捕",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-053",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "彷徨",
+  "sentence": "彷徨乎無為其側。",
+  "definition": "悠遊自在、隨意徘徊",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-054",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "逍遙",
+  "sentence": "逍遙乎寢臥其下。",
+  "definition": "自由自在、無拘無束",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-055",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "安",
+  "sentence": "無所可用，安所困苦哉！",
+  "definition": "哪裏、怎麼",
+  "pos": "疑問代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xiaoyao-056",
+  "fanwen_code": "xiaoyao",
+  "piece": null,
+  "word": "拙",
+  "sentence": "夫子固拙於用大矣。",
+  "definition": "不擅長",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-001",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "已",
+  "sentence": "學不可以已。",
+  "definition": "停止",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-002",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "中",
+  "sentence": "木直中繩。",
+  "definition": "符合",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-003",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "輮",
+  "sentence": "木直中繩，輮以為輪，其曲中規。",
+  "definition": "用火烘烤使木材彎曲",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "煣",
+  "note": null
+ },
+ {
+  "id": "quanxue-004",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "槁暴",
+  "sentence": "雖有槁暴，不復挺者。",
+  "definition": "枯乾、曬乾",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "曝",
+  "note": "「暴」通「曝」"
+ },
+ {
+  "id": "quanxue-005",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "復",
+  "sentence": "不復挺者。",
+  "definition": "回復",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-006",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "然",
+  "sentence": "輮使之然也。",
+  "definition": "這樣",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-007",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "就",
+  "sentence": "金就礪則利。",
+  "definition": "接近",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-008",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "礪",
+  "sentence": "金就礪則利。",
+  "definition": "磨刀石",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-009",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "利",
+  "sentence": "金就礪則利。",
+  "definition": "鋒利",
+  "pos": "形容詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-010",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "參",
+  "sentence": "君子博學而日參省乎己。",
+  "definition": "檢驗、驗證（一說通「三」，解作多次）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-011",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "知",
+  "sentence": "則知明而行無過矣。",
+  "definition": "智慧",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "智",
+  "note": null
+ },
+ {
+  "id": "quanxue-012",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "明",
+  "sentence": "則知明而行無過矣。",
+  "definition": "明達",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-013",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "須臾",
+  "sentence": "吾嘗終日而思矣，不如須臾之所學也。",
+  "definition": "片刻",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-014",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "跂",
+  "sentence": "吾嘗跂而望矣，不如登高之博見也。",
+  "definition": "踮起腳",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-015",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "疾",
+  "sentence": "順風而呼，聲非加疾也，而聞者彰。",
+  "definition": "響亮",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-016",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "彰",
+  "sentence": "而聞者彰。",
+  "definition": "清晰",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-017",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "假",
+  "sentence": "假輿馬者，非利足也。",
+  "definition": "借助",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-018",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "致",
+  "sentence": "而致千里。",
+  "definition": "到達",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-019",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "水",
+  "sentence": "假舟楫者，非能水也。",
+  "definition": "游泳",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "quanxue-020",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "絕",
+  "sentence": "而絕江河。",
+  "definition": "橫渡",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-021",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "生",
+  "sentence": "君子生非異也，善假於物也。",
+  "definition": "資質、天性",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "性",
+  "note": null
+ },
+ {
+  "id": "quanxue-022",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "淵",
+  "sentence": "積水成淵，蛟龍生焉。",
+  "definition": "深水",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-023",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "備",
+  "sentence": "聖心備焉。",
+  "definition": "具備",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-024",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "跬",
+  "sentence": "故不積跬步，無以至千里。",
+  "definition": "半步",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-025",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "無以",
+  "sentence": "無以至千里。",
+  "definition": "沒有用來……的辦法",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-026",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "騏驥",
+  "sentence": "騏驥一躍，不能十步。",
+  "definition": "駿馬",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-027",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "駑",
+  "sentence": "駑馬十駕，功在不舍。",
+  "definition": "劣馬",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-028",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "駕",
+  "sentence": "駑馬十駕。",
+  "definition": "馬車一天的路程",
+  "pos": "量詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-029",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "舍",
+  "sentence": "鍥而舍之。",
+  "definition": "放棄、停止",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "捨",
+  "note": null
+ },
+ {
+  "id": "quanxue-030",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "鍥",
+  "sentence": "鍥而不舍。",
+  "definition": "刻",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-031",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "鏤",
+  "sentence": "金石可鏤。",
+  "definition": "雕刻",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-032",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "跪",
+  "sentence": "蟹六跪而二螯。",
+  "definition": "蟹腿",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-033",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "螯",
+  "sentence": "蟹六跪而二螯。",
+  "definition": "蟹鉗",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-034",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "躁",
+  "sentence": "非蛇鱔之穴無可寄託者，用心躁也。",
+  "definition": "浮躁",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-035",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "挺",
+  "sentence": "不復挺者。",
+  "definition": "挺直",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-036",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "省",
+  "sentence": "君子博學而日參省乎己。",
+  "definition": "反省",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-037",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "博",
+  "sentence": "不如登高之博見也。",
+  "definition": "廣闊",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-038",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "神明",
+  "sentence": "積善成德，而神明自得。",
+  "definition": "人的精神智慧",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-039",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "聖心",
+  "sentence": "聖心備焉。",
+  "definition": "聖人的思想",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-040",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "青",
+  "sentence": "青，取之於藍，而青於藍。",
+  "definition": "靛青（一種染料）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-041",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "於",
+  "sentence": "青，取之於藍，而青於藍。",
+  "definition": "比",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-042",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "有",
+  "sentence": "雖有槁暴，不復挺者。",
+  "definition": "又",
+  "pos": "副詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "又",
+  "note": null
+ },
+ {
+  "id": "quanxue-043",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "受繩",
+  "sentence": "故木受繩則直。",
+  "definition": "經墨線量過、依墨線加工",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-044",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "利",
+  "sentence": "假輿馬者，非利足也。",
+  "definition": "使……快捷",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用",
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": "形容詞的使動用法"
+ },
+ {
+  "id": "quanxue-045",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "能",
+  "sentence": "假舟楫者，非能水也。",
+  "definition": "善於",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-046",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "一",
+  "sentence": "用心一也。",
+  "definition": "專一",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "quanxue-047",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "爪牙",
+  "sentence": "螾無爪牙之利，筋骨之強。",
+  "definition": "爪子和牙齒",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指幫兇、黨羽"
+ },
+ {
+  "id": "quanxue-048",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "上",
+  "sentence": "上食埃土，下飲黃泉。",
+  "definition": "向上",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作狀語"
+ },
+ {
+  "id": "quanxue-049",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "黃泉",
+  "sentence": "上食埃土，下飲黃泉。",
+  "definition": "地下的泉水",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指陰間"
+ },
+ {
+  "id": "quanxue-050",
+  "fanwen_code": "quanxue",
+  "piece": null,
+  "word": "寄託",
+  "sentence": "非蛇鱔之穴無可寄託者。",
+  "definition": "存身、容身",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-001",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "使",
+  "sentence": "臣舍人藺相如可使。",
+  "definition": "出使、作使者",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-002",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "見",
+  "sentence": "徒見欺。",
+  "definition": "被",
+  "pos": "助詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "表被動"
+ },
+ {
+  "id": "lianpo-003",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "卻",
+  "sentence": "相如因持璧卻立。",
+  "definition": "退後",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-004",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "刃",
+  "sentence": "左右欲刃相如。",
+  "definition": "用刀殺",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lianpo-005",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "壽",
+  "sentence": "請以趙十五城為秦王壽。",
+  "definition": "祝壽",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lianpo-006",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "引",
+  "sentence": "相如引車避匿。",
+  "definition": "調轉（車向）、拉着",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-007",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "事",
+  "sentence": "臣所以去親戚而事君者。",
+  "definition": "事奉",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-008",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "列",
+  "sentence": "不欲與廉頗爭列。",
+  "definition": "排列的位置",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-009",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "加勝",
+  "sentence": "秦王竟酒，終不能加勝於趙。",
+  "definition": "勝過",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-010",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "卒",
+  "sentence": "卒廷見相如，畢禮而歸之。",
+  "definition": "終於",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-011",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "卒",
+  "sentence": "卒相與驩，為刎頸之交。",
+  "definition": "終於",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-012",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "去",
+  "sentence": "臣所以去親戚而事君者。",
+  "definition": "離開",
+  "pos": "動詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指前往"
+ },
+ {
+  "id": "lianpo-013",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "孰",
+  "sentence": "唯大王與羣臣孰計議之！",
+  "definition": "仔細、周詳",
+  "pos": "形容詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "熟",
+  "note": null
+ },
+ {
+  "id": "lianpo-014",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "已而",
+  "sentence": "已而相如出，望見廉頗。",
+  "definition": "不久",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-015",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "度",
+  "sentence": "王行，度道里會遇之禮畢。",
+  "definition": "計算、估計",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-016",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "度",
+  "sentence": "秦王度之，終不可彊奪。",
+  "definition": "揣測、估量",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-017",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "彊",
+  "sentence": "夫趙彊而燕弱。",
+  "definition": "強大",
+  "pos": "形容詞",
+  "categories": [
+   "通假字",
+   "一詞多義"
+  ],
+  "tongjia": "強",
+  "note": null
+ },
+ {
+  "id": "lianpo-018",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "彊",
+  "sentence": "秦王度之，終不可彊奪。",
+  "definition": "強行、硬要",
+  "pos": "副詞",
+  "categories": [
+   "通假字",
+   "一詞多義"
+  ],
+  "tongjia": "強",
+  "note": null
+ },
+ {
+  "id": "lianpo-019",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "患",
+  "sentence": "欲勿予，即患秦兵之來。",
+  "definition": "擔心",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-020",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "獨",
+  "sentence": "相如雖駑，獨畏廉將軍哉？",
+  "definition": "難道",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-021",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "竊",
+  "sentence": "臣嘗有罪，竊計欲亡走燕；臣竊以為其人勇士。",
+  "definition": "私下",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-022",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "素",
+  "sentence": "且相如素賤人。",
+  "definition": "向來",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-023",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "舍",
+  "sentence": "舍相如廣成傳。",
+  "definition": "安排住宿",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lianpo-024",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "許",
+  "sentence": "秦以城求璧而趙不許，曲在趙。",
+  "definition": "答應",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-025",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "誠",
+  "sentence": "臣誠恐見欺於王而負趙。",
+  "definition": "實在",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-026",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "遺",
+  "sentence": "秦昭王聞之，使人遺趙王書。",
+  "definition": "送",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-027",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "拜",
+  "sentence": "拜為上卿，以勇氣聞於諸侯。",
+  "definition": "授予官職",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-028",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "聞",
+  "sentence": "拜為上卿，以勇氣聞於諸侯。",
+  "definition": "聞名",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-029",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "報",
+  "sentence": "求人可使報秦者，未得。",
+  "definition": "答覆",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-030",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "亡",
+  "sentence": "臣嘗有罪，竊計欲亡走燕。",
+  "definition": "逃亡",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-031",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "幸",
+  "sentence": "而君幸於趙王。",
+  "definition": "寵愛",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "此處表被動，即被寵愛"
+ },
+ {
+  "id": "lianpo-032",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "束",
+  "sentence": "其勢必不敢留君，而束君歸趙矣。",
+  "definition": "捆綁",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-033",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "肉袒",
+  "sentence": "君不如肉袒伏斧質請罪。",
+  "definition": "脫去上衣，露出身體（表示謝罪）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-034",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "斧質",
+  "sentence": "君不如肉袒伏斧質請罪。",
+  "definition": "斬人用的刑具",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "鑕",
+  "note": null
+ },
+ {
+  "id": "lianpo-035",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "均",
+  "sentence": "均之二策，寧許以負秦曲。",
+  "definition": "衡量、比較",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-036",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "負",
+  "sentence": "均之二策，寧許以負秦曲。",
+  "definition": "使……承擔",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "使動用法"
+ },
+ {
+  "id": "lianpo-037",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "曲",
+  "sentence": "秦以城求璧而趙不許，曲在趙。",
+  "definition": "理虧",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-038",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "奉",
+  "sentence": "王必無人，臣願奉璧往使。",
+  "definition": "捧著",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "捧",
+  "note": null
+ },
+ {
+  "id": "lianpo-039",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "完",
+  "sentence": "城不入，臣請完璧歸趙。",
+  "definition": "使……完整",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞的使動用法"
+ },
+ {
+  "id": "lianpo-040",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "瑕",
+  "sentence": "璧有瑕，請指示王。",
+  "definition": "玉上的斑點",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-041",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "布衣之交",
+  "sentence": "臣以為布衣之交尚不相欺，況大國乎！",
+  "definition": "平民之間的交往",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-042",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "逆",
+  "sentence": "且以一璧之故逆彊秦之驩，不可。",
+  "definition": "違背、觸犯",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-043",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "驩",
+  "sentence": "且以一璧之故逆彊秦之驩，不可。",
+  "definition": "歡心",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "歡",
+  "note": null
+ },
+ {
+  "id": "lianpo-044",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "嚴",
+  "sentence": "嚴大國之威以修敬也。",
+  "definition": "尊重、敬畏",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-045",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "倨",
+  "sentence": "今臣至，大王見臣列觀，禮節甚倨。",
+  "definition": "傲慢",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-046",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "睨",
+  "sentence": "相如持其璧睨柱，欲以擊柱。",
+  "definition": "斜視",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-047",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "辭謝",
+  "sentence": "秦王恐其破璧，乃辭謝固請。",
+  "definition": "婉言道歉",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-048",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "固",
+  "sentence": "秦王恐其破璧，乃辭謝固請。",
+  "definition": "堅決",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-049",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "案",
+  "sentence": "召有司案圖。",
+  "definition": "察看",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "按",
+  "note": null
+ },
+ {
+  "id": "lianpo-050",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "特",
+  "sentence": "相如度秦王特以詐詳為予趙城。",
+  "definition": "只是",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-051",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "詳",
+  "sentence": "相如度秦王特以詐詳為予趙城。",
+  "definition": "假裝",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "佯",
+  "note": null
+ },
+ {
+  "id": "lianpo-052",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "衣",
+  "sentence": "乃使其從者衣褐，懷其璧，從徑道亡。",
+  "definition": "穿",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lianpo-053",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "間",
+  "sentence": "故令人持璧歸，間至趙矣。",
+  "definition": "從小路、暗中",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-054",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "鼓",
+  "sentence": "寡人竊聞趙王好音，請奏瑟。」趙王鼓瑟。",
+  "definition": "彈奏",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "lianpo-055",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "靡",
+  "sentence": "相如張目叱之，左右皆靡。",
+  "definition": "倒退、退縮",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-056",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "懌",
+  "sentence": "於是秦王不懌，為一擊缻。",
+  "definition": "高興",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-057",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "右",
+  "sentence": "位在廉頗之右。",
+  "definition": "上位",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "秦漢時以右為尊"
+ },
+ {
+  "id": "lianpo-058",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "宣言",
+  "sentence": "宣言曰：「我見相如，必辱之。」",
+  "definition": "揚言、公開宣稱",
+  "pos": "動詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指公開發表的文告"
+ },
+ {
+  "id": "lianpo-059",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "舍人",
+  "sentence": "於是舍人相與諫曰。",
+  "definition": "門客",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-060",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "親戚",
+  "sentence": "臣所以去親戚而事君者，徒慕君之高義也。",
+  "definition": "父母兄弟等親人",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指有血緣或婚姻關係的親屬"
+ },
+ {
+  "id": "lianpo-061",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "不肖",
+  "sentence": "臣等不肖，請辭去。",
+  "definition": "不賢、沒有才能",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-062",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "孰與",
+  "sentence": "公之視廉將軍孰與秦王？",
+  "definition": "與……相比，哪一個更……",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-063",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "廷",
+  "sentence": "而相如廷叱之，辱其群臣。",
+  "definition": "在朝廷上",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作狀語"
+ },
+ {
+  "id": "lianpo-064",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "顧",
+  "sentence": "顧吾念之。",
+  "definition": "只是、但",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-065",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "加兵",
+  "sentence": "彊秦之所以不敢加兵於趙者。",
+  "definition": "出兵攻打",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-066",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "徒",
+  "sentence": "徒以吾兩人在也。",
+  "definition": "只、僅",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-067",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "先",
+  "sentence": "以先國家之急而後私讎也。",
+  "definition": "把……放在前面",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "方位名詞用作動詞"
+ },
+ {
+  "id": "lianpo-068",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "後",
+  "sentence": "以先國家之急而後私讎也。",
+  "definition": "把……放在後面",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "方位名詞用作動詞"
+ },
+ {
+  "id": "lianpo-069",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "負荊",
+  "sentence": "廉頗聞之，肉袒負荊。",
+  "definition": "背着荊條（表示請罪）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "lianpo-070",
+  "fanwen_code": "lianpo",
+  "piece": null,
+  "word": "刎頸之交",
+  "sentence": "卒相與驩，為刎頸之交。",
+  "definition": "同生死、共患難的朋友",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-001",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "創",
+  "sentence": "先帝創業未半。",
+  "definition": "開創",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-002",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "開張",
+  "sentence": "誠宜開張聖聽。",
+  "definition": "開放、廣納",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-003",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "恢弘",
+  "sentence": "恢弘志士之氣。",
+  "definition": "發揚",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-004",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "裨補",
+  "sentence": "必能裨補闕漏。",
+  "definition": "補益",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-005",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "遠",
+  "sentence": "親賢臣，遠小人。",
+  "definition": "疏遠",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作動詞"
+ },
+ {
+  "id": "chushi-006",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "彰",
+  "sentence": "以彰其咎。",
+  "definition": "表明",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-007",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "志",
+  "sentence": "此皆良實，志慮忠純。",
+  "definition": "志向",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-008",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "悉",
+  "sentence": "事無大小，悉以咨之；此悉貞良死節之臣。",
+  "definition": "全部、全都是",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-009",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "明",
+  "sentence": "恐託付不效，以傷先帝之明。",
+  "definition": "聖明",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-010",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "率",
+  "sentence": "兵甲已足，當獎率三軍。",
+  "definition": "率領",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-011",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "苟",
+  "sentence": "苟全性命於亂世。",
+  "definition": "苟且",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-012",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "蓋",
+  "sentence": "蓋追先帝之殊遇，欲報之於陛下也。",
+  "definition": "因為",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-013",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "許",
+  "sentence": "遂許先帝以驅馳。",
+  "definition": "答應",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-014",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "誠",
+  "sentence": "此誠危急存亡之秋也！；誠宜開張聖聽。",
+  "definition": "實在",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-015",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "遺",
+  "sentence": "是以先帝簡拔以遺陛下。",
+  "definition": "留下",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-016",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "崩殂",
+  "sentence": "先帝創業未半，而中道崩殂。",
+  "definition": "死亡（指帝王）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-017",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "秋",
+  "sentence": "此誠危急存亡之秋也。",
+  "definition": "時刻、關鍵時刻",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-018",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "殊",
+  "sentence": "蓋追先帝之殊遇。",
+  "definition": "特殊、特別",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-019",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "光",
+  "sentence": "以光先帝遺德。",
+  "definition": "發揚光大",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作動詞，使……光大"
+ },
+ {
+  "id": "chushi-020",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "妄",
+  "sentence": "不宜妄自菲薄。",
+  "definition": "隨意、胡亂",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-021",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "菲薄",
+  "sentence": "不宜妄自菲薄。",
+  "definition": "輕視、小看",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-022",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "引",
+  "sentence": "引喻失義。",
+  "definition": "引用、援引",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-023",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "喻",
+  "sentence": "引喻失義。",
+  "definition": "譬喻、例證",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-024",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "義",
+  "sentence": "引喻失義。",
+  "definition": "適宜、道理",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-025",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "刑",
+  "sentence": "宜付有司論其刑賞。",
+  "definition": "刑罰",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-026",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "陟",
+  "sentence": "陟罰臧否。",
+  "definition": "晉升、獎賞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-027",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "罰",
+  "sentence": "陟罰臧否。",
+  "definition": "懲罰",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-028",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "臧",
+  "sentence": "陟罰臧否。",
+  "definition": "善（善人、好人）",
+  "pos": "形容詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "chushi-029",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "否",
+  "sentence": "陟罰臧否。",
+  "definition": "惡（惡人、壞人）",
+  "pos": "形容詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "chushi-030",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "異同",
+  "sentence": "不宜異同。",
+  "definition": "不同",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "偏義複詞，偏指「異」"
+ },
+ {
+  "id": "chushi-031",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "咨",
+  "sentence": "事無大小，悉以咨之。",
+  "definition": "詢問",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-032",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "貞",
+  "sentence": "此悉貞良死節之臣。",
+  "definition": "堅貞",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-033",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "良",
+  "sentence": "此悉貞良死節之臣。",
+  "definition": "善良、優秀",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-034",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "節",
+  "sentence": "此悉貞良死節之臣。",
+  "definition": "節操、氣節",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-035",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "簡",
+  "sentence": "是以先帝簡拔以遺陛下。",
+  "definition": "選拔",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-036",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "拔",
+  "sentence": "是以先帝簡拔以遺陛下。",
+  "definition": "提拔",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-037",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "闕",
+  "sentence": "必能裨補闕漏。",
+  "definition": "缺點、過失",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "缺",
+  "note": null
+ },
+ {
+  "id": "chushi-038",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "漏",
+  "sentence": "必能裨補闕漏。",
+  "definition": "漏洞、疏忽",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-039",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "淑",
+  "sentence": "性行淑均。",
+  "definition": "善良",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-040",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "均",
+  "sentence": "性行淑均。",
+  "definition": "公正、公平",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-041",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "曉",
+  "sentence": "曉暢軍事。",
+  "definition": "通曉、精通",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-042",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "暢",
+  "sentence": "曉暢軍事。",
+  "definition": "通達、流暢",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-043",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "行",
+  "sentence": "必能使行陣和睦。",
+  "definition": "隊伍、行列",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-044",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "陣",
+  "sentence": "必能使行陣和睦。",
+  "definition": "軍隊、陣地",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-045",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "傾",
+  "sentence": "此後漢所以傾頹也。",
+  "definition": "傾覆",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-046",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "頹",
+  "sentence": "此後漢所以傾頹也。",
+  "definition": "衰敗",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-047",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "猥",
+  "sentence": "猥自枉屈。",
+  "definition": "辱、降低身份",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-048",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "枉",
+  "sentence": "猥自枉屈。",
+  "definition": "委屈",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-049",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "屈",
+  "sentence": "猥自枉屈。",
+  "definition": "屈就",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-050",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "驅馳",
+  "sentence": "遂許先帝以驅馳。",
+  "definition": "奔走效勞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-051",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "駑",
+  "sentence": "庶竭駑鈍。",
+  "definition": "低劣",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-052",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "鈍",
+  "sentence": "庶竭駑鈍。",
+  "definition": "愚鈍",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-053",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "攘",
+  "sentence": "攘除姦兇。",
+  "definition": "排除、剷除",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-054",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "除",
+  "sentence": "攘除姦兇。",
+  "definition": "消滅",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-055",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "斟酌",
+  "sentence": "斟酌損益。",
+  "definition": "反覆考慮",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-056",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "損",
+  "sentence": "斟酌損益。",
+  "definition": "減少、革除",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-057",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "益",
+  "sentence": "斟酌損益。",
+  "definition": "增加、興辦",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-058",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "諮",
+  "sentence": "諮諏善道。",
+  "definition": "詢問",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-059",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "諏",
+  "sentence": "諮諏善道。",
+  "definition": "詢問",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-060",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "察",
+  "sentence": "察納雅言。",
+  "definition": "明察",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-061",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "納",
+  "sentence": "察納雅言。",
+  "definition": "採納",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-062",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "雅",
+  "sentence": "察納雅言。",
+  "definition": "正確、正直",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-063",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "懈",
+  "sentence": "然侍衞之臣不懈於內。",
+  "definition": "鬆懈",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-064",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "塞",
+  "sentence": "以塞忠諫之路也。",
+  "definition": "堵塞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-065",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "偏私",
+  "sentence": "不宜偏私，使內外異法也。",
+  "definition": "偏袒",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-066",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "昭",
+  "sentence": "以昭陛下平明之理。",
+  "definition": "彰明、顯示",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-067",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "平明",
+  "sentence": "以昭陛下平明之理。",
+  "definition": "公正嚴明",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-068",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "痛恨",
+  "sentence": "未嘗不歎息痛恨於桓、靈也。",
+  "definition": "痛心和遺憾",
+  "pos": "動詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指極度憎恨"
+ },
+ {
+  "id": "chushi-069",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "布衣",
+  "sentence": "臣本布衣，躬耕於南陽。",
+  "definition": "平民",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-070",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "躬",
+  "sentence": "臣本布衣，躬耕於南陽。",
+  "definition": "親自",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-071",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "聞達",
+  "sentence": "不求聞達於諸侯。",
+  "definition": "顯赫有名",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-072",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "卑鄙",
+  "sentence": "先帝不以臣卑鄙。",
+  "definition": "身份低微、見識淺陋",
+  "pos": "形容詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指品格惡劣"
+ },
+ {
+  "id": "chushi-073",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "顧",
+  "sentence": "三顧臣於草廬之中。",
+  "definition": "探望、拜訪",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-074",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "感激",
+  "sentence": "由是感激，遂許先帝以驅馳。",
+  "definition": "感動奮發",
+  "pos": "動詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指衷心感謝"
+ },
+ {
+  "id": "chushi-075",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "傾覆",
+  "sentence": "後值傾覆，受任於敗軍之際。",
+  "definition": "兵敗",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-076",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "夙夜",
+  "sentence": "受命以來，夙夜憂歎。",
+  "definition": "早晚、日夜",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-077",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "效",
+  "sentence": "恐託付不效，以傷先帝之明。",
+  "definition": "奏效、實現",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-078",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "不毛",
+  "sentence": "故五月渡瀘，深入不毛。",
+  "definition": "不長草木的荒涼地區",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-079",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "庶",
+  "sentence": "庶竭駑鈍，攘除姦凶。",
+  "definition": "希望",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-080",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "慢",
+  "sentence": "則責攸之、禕、允等之慢，以彰其咎。",
+  "definition": "怠慢、疏忽",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-081",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "咎",
+  "sentence": "則責攸之、禕、允等之慢，以彰其咎。",
+  "definition": "過失",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "chushi-082",
+  "fanwen_code": "chushi",
+  "piece": null,
+  "word": "臨",
+  "sentence": "臨表涕零，不知所言。",
+  "definition": "面對",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-001",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "傳",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "傳授",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-002",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "受",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "講授、教授",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "授",
+  "note": null
+ },
+ {
+  "id": "shishuo-003",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "解",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "解答",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-004",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "師",
+  "sentence": "不恥相師。",
+  "definition": "向……學習",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用",
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "shishuo-005",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "恥",
+  "sentence": "於其身也，則恥師焉。",
+  "definition": "以……為恥",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "意動用法"
+ },
+ {
+  "id": "shishuo-006",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "固",
+  "sentence": "生乎吾前，其聞道也固先乎吾。",
+  "definition": "本來",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-007",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "孰",
+  "sentence": "人非生而知之者，孰能無惑？",
+  "definition": "誰",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-008",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "徒",
+  "sentence": "郯子之徒，其賢不及孔子。",
+  "definition": "那一類的人",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-009",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "明",
+  "sentence": "小學而大遺，吾未見其明也。",
+  "definition": "明智",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-010",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "諛",
+  "sentence": "位卑則足羞，官盛則近諛。",
+  "definition": "奉承、諂媚",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-011",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "貽",
+  "sentence": "作《師說》以貽之。",
+  "definition": "贈送",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-012",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "不",
+  "sentence": "或師焉，或不焉。",
+  "definition": "不",
+  "pos": "副詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "否",
+  "note": null
+ },
+ {
+  "id": "shishuo-013",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "學者",
+  "sentence": "古之學者必有師。",
+  "definition": "求學的人",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指有專門學問的人"
+ },
+ {
+  "id": "shishuo-014",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "所以",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "用來……的",
+  "pos": "詞組",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義為表因果的連詞"
+ },
+ {
+  "id": "shishuo-015",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "惑",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "疑難",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-016",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "道",
+  "sentence": "師者，所以傳道、受業、解惑也。",
+  "definition": "道理",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-017",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "師",
+  "sentence": "古之學者必有師。",
+  "definition": "老師",
+  "pos": "名詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-018",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "師",
+  "sentence": "吾師道也。",
+  "definition": "學習",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用",
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "shishuo-019",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "聞",
+  "sentence": "聞道有先後。",
+  "definition": "聽聞、懂得",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-020",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "乎",
+  "sentence": "生乎吾前。",
+  "definition": "相當於「於」",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-021",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "無",
+  "sentence": "是故無貴無賤，無長無少。",
+  "definition": "無論",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-022",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "出",
+  "sentence": "古之聖人，其出人也遠矣，猶且從師而問焉。",
+  "definition": "超出",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-023",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "下",
+  "sentence": "今之眾人，其下聖人也亦遠矣。",
+  "definition": "低於",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-024",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "聖",
+  "sentence": "是故聖益聖。",
+  "definition": "聖人",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "shishuo-025",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "愚",
+  "sentence": "愚益愚。",
+  "definition": "愚人",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "shishuo-026",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "句讀",
+  "sentence": "句讀之不知，惑之不解。",
+  "definition": "文句停頓處",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-027",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "族",
+  "sentence": "士大夫之族。",
+  "definition": "類",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-028",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "曰",
+  "sentence": "曰師曰弟子云者。",
+  "definition": "說",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-029",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "云",
+  "sentence": "曰師曰弟子云者。",
+  "definition": "說、助詞",
+  "pos": "助詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-030",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "彼",
+  "sentence": "彼與彼年相若也。",
+  "definition": "他、那些人",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-031",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "與",
+  "sentence": "彼與彼年相若也。",
+  "definition": "和",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-032",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "年",
+  "sentence": "彼與彼年相若也。",
+  "definition": "年齡",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-033",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "若",
+  "sentence": "年相若也。",
+  "definition": "相似",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-034",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "位",
+  "sentence": "位卑則足羞。",
+  "definition": "地位",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-035",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "卑",
+  "sentence": "位卑則足羞。",
+  "definition": "低下",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-036",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "盛",
+  "sentence": "官盛則近諛。",
+  "definition": "高",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-037",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "嗚呼",
+  "sentence": "嗚呼！師道之不復可知矣。",
+  "definition": "唉",
+  "pos": "嘆詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-038",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "久",
+  "sentence": "師道之不傳也久矣。",
+  "definition": "長久",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-039",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "難",
+  "sentence": "欲人之無惑也難矣。",
+  "definition": "困難",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-040",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "常",
+  "sentence": "聖人無常師。",
+  "definition": "固定",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-041",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "專攻",
+  "sentence": "術業有專攻。",
+  "definition": "專門研究",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-042",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "通",
+  "sentence": "六藝經傳皆通習之。",
+  "definition": "通曉",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-043",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "六藝",
+  "sentence": "六藝經傳皆通習之。",
+  "definition": "六經",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-044",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "經",
+  "sentence": "六藝經傳皆通習之。",
+  "definition": "經書",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-045",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "傳",
+  "sentence": "六藝經傳皆通習之。",
+  "definition": "註釋經書的著作",
+  "pos": "名詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-046",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "拘",
+  "sentence": "不拘於時。",
+  "definition": "拘泥",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-047",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "時",
+  "sentence": "不拘於時。",
+  "definition": "時俗",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-048",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "嘉",
+  "sentence": "余嘉其能行古道。",
+  "definition": "讚許",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-049",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "古道",
+  "sentence": "余嘉其能行古道。",
+  "definition": "古人從師學習的風尚",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-050",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "庸",
+  "sentence": "夫庸知其年之先後生於吾乎？",
+  "definition": "豈、哪裏",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-051",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "授",
+  "sentence": "彼童子之師，授之書而習其句讀者。",
+  "definition": "教授、傳授",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-052",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "小學",
+  "sentence": "小學而大遺。",
+  "definition": "小的方面（句讀）要學習",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-053",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "百工",
+  "sentence": "巫醫樂師百工之人，不恥相師。",
+  "definition": "各種工匠",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-054",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "不齒",
+  "sentence": "巫醫樂師百工之人，君子不齒。",
+  "definition": "不屑與之並列",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-055",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "乃",
+  "sentence": "今其智乃反不能及。",
+  "definition": "竟然",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-056",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "其",
+  "sentence": "其可怪也歟！",
+  "definition": "表示推測，大概",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-057",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "師",
+  "sentence": "孔子師郯子、萇弘、師襄、老聃。",
+  "definition": "以……為師",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用",
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": "名詞的意動用法"
+ },
+ {
+  "id": "shishuo-058",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "不必",
+  "sentence": "是故弟子不必不如師，師不必賢於弟子。",
+  "definition": "不一定",
+  "pos": "副詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指不需要"
+ },
+ {
+  "id": "shishuo-059",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "賢",
+  "sentence": "師不必賢於弟子。",
+  "definition": "勝過、強於",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shishuo-060",
+  "fanwen_code": "shishuo",
+  "piece": null,
+  "word": "好",
+  "sentence": "李氏子蟠，年十七，好古文。",
+  "definition": "愛好",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-001",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "施施",
+  "sentence": "其隙也，則施施而行。",
+  "definition": "緩慢行走",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-002",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "披",
+  "sentence": "到則披草而坐。",
+  "definition": "撥開",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-003",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "傾",
+  "sentence": "傾壺而醉。",
+  "definition": "倒（酒）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-004",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "凝",
+  "sentence": "心凝形釋。",
+  "definition": "凝聚",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-005",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "釋",
+  "sentence": "心凝形釋。",
+  "definition": "解脫",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-006",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "青",
+  "sentence": "縈青繚白。",
+  "definition": "青山",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "xishan-007",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "白",
+  "sentence": "縈青繚白。",
+  "definition": "白水",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "形容詞用作名詞"
+ },
+ {
+  "id": "xishan-008",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "極",
+  "sentence": "意有所極，夢亦同趣。",
+  "definition": "到達",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-009",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "猶",
+  "sentence": "至無所見，而猶不欲歸。",
+  "definition": "還是",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-010",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "惴慄",
+  "sentence": "自余為僇人，居是州，恆惴慄。",
+  "definition": "恐懼不安",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-011",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "隙",
+  "sentence": "其隙也，則施施而行。",
+  "definition": "空閒",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-012",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "漫漫",
+  "sentence": "漫漫而遊。",
+  "definition": "隨意",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-013",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "更",
+  "sentence": "醉則更相枕以臥。",
+  "definition": "更換、交替",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-014",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "相",
+  "sentence": "更相枕以臥。",
+  "definition": "互相",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-015",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "枕",
+  "sentence": "更相枕以臥。",
+  "definition": "枕著",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-016",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "夢",
+  "sentence": "臥而夢。",
+  "definition": "做夢",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-017",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "趣",
+  "sentence": "意有所極，夢亦同趣。",
+  "definition": "趨向、往",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "趨",
+  "note": null
+ },
+ {
+  "id": "xishan-018",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "覺",
+  "sentence": "覺而起。",
+  "definition": "睡醒",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-019",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "異",
+  "sentence": "以為凡是州之山水有異態者。",
+  "definition": "奇特",
+  "pos": "形容詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-020",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "特",
+  "sentence": "而未始知西山之怪特。",
+  "definition": "獨特",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-021",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "培塿",
+  "sentence": "然後知是山之特立，不與培塿為類。",
+  "definition": "小土丘",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-022",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "類",
+  "sentence": "不與培塿為類。",
+  "definition": "同類",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-023",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "遯",
+  "sentence": "莫得遯隱。",
+  "definition": "隱藏",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-024",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "隱",
+  "sentence": "莫得遯隱。",
+  "definition": "隱藏",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-025",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "縈",
+  "sentence": "縈青繚白。",
+  "definition": "纏繞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-026",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "繚",
+  "sentence": "縈青繚白。",
+  "definition": "纏繞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-027",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "際",
+  "sentence": "外與天際。",
+  "definition": "交接、相接",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "xishan-028",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "恆",
+  "sentence": "自余為僇人，居是州，恆惴慄。",
+  "definition": "經常",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-029",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "箕踞",
+  "sentence": "箕踞而遨。",
+  "definition": "隨意蹲坐（像畚箕一樣）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-030",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "遨",
+  "sentence": "箕踞而遨。",
+  "definition": "遊賞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-031",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "窮",
+  "sentence": "入深林，窮迴谿。",
+  "definition": "走到盡頭",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-032",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "迴",
+  "sentence": "入深林，窮迴谿。",
+  "definition": "曲折",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-033",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "幽",
+  "sentence": "幽泉怪石。",
+  "definition": "幽深",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-034",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "怪",
+  "sentence": "幽泉怪石，無遠不到；而未始知西山之怪特。",
+  "definition": "奇異",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-035",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "無",
+  "sentence": "無遠不到。",
+  "definition": "沒有",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-036",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "莫",
+  "sentence": "莫得遯隱。",
+  "definition": "沒有",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-037",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "引",
+  "sentence": "引觴滿酌。",
+  "definition": "拿取",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-038",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "觴",
+  "sentence": "引觴滿酌。",
+  "definition": "酒杯",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-039",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "頹然",
+  "sentence": "頹然就醉。",
+  "definition": "倒下的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-040",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "異",
+  "sentence": "因坐法華西亭，望西山，始指異之。",
+  "definition": "以……為奇異",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用",
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": "意動用法"
+ },
+ {
+  "id": "xishan-041",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "未始",
+  "sentence": "而未始知西山之怪特。",
+  "definition": "未曾",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-042",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "萬化",
+  "sentence": "與萬化冥合。",
+  "definition": "自然萬物",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-043",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "冥合",
+  "sentence": "與萬化冥合。",
+  "definition": "暗合、融合",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-044",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "僇人",
+  "sentence": "自余為僇人，居是州，恆惴慄。",
+  "definition": "受過刑辱的人（指被貶）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-045",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "徒",
+  "sentence": "日與其徒上高山，入深林。",
+  "definition": "同伴",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-046",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "緣",
+  "sentence": "遂命僕人過湘江，緣染溪。",
+  "definition": "沿着",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-047",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "斫",
+  "sentence": "斫榛莽，焚茅茷。",
+  "definition": "砍伐",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-048",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "榛莽",
+  "sentence": "斫榛莽，焚茅茷。",
+  "definition": "雜亂叢生的草木",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-049",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "衽席",
+  "sentence": "則凡數州之土壤，皆在衽席之下。",
+  "definition": "坐席",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-050",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "岈然",
+  "sentence": "其高下之勢，岈然窪然。",
+  "definition": "山谷空曠深邃的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-051",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "窪然",
+  "sentence": "其高下之勢，岈然窪然。",
+  "definition": "低陷的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-052",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "垤",
+  "sentence": "若垤若穴。",
+  "definition": "蟻穴外的小土堆",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-053",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "攢蹙",
+  "sentence": "尺寸千里，攢蹙累積。",
+  "definition": "聚集收縮",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-054",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "灝氣",
+  "sentence": "悠悠乎與灝氣俱，而莫得其涯。",
+  "definition": "天地間的大氣",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-055",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "俱",
+  "sentence": "悠悠乎與灝氣俱，而莫得其涯。",
+  "definition": "在一起",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-056",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "造物者",
+  "sentence": "洋洋乎與造物者遊，而不知其所窮。",
+  "definition": "創造萬物的大自然",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-057",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "窮",
+  "sentence": "洋洋乎與造物者遊，而不知其所窮。",
+  "definition": "盡頭",
+  "pos": "名詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-058",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "就",
+  "sentence": "引觴滿酌，頹然就醉。",
+  "definition": "趨向、達到",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "xishan-059",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "嚮",
+  "sentence": "然後知吾嚮之未始遊。",
+  "definition": "從前",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "向",
+  "note": null
+ },
+ {
+  "id": "xishan-060",
+  "fanwen_code": "xishan",
+  "piece": null,
+  "word": "志",
+  "sentence": "故為之文以志。",
+  "definition": "記載",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-001",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "守",
+  "sentence": "謫守巴陵郡。",
+  "definition": "出任太守",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞"
+ },
+ {
+  "id": "yueyang-002",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "興",
+  "sentence": "百廢具興。",
+  "definition": "興起／振興",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-003",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "覽",
+  "sentence": "覽物之情。",
+  "definition": "觀賞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-004",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "極",
+  "sentence": "北通巫峽，南極瀟湘。",
+  "definition": "遠達",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-005",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "歸",
+  "sentence": "微斯人，吾誰與歸？",
+  "definition": "歸依、歸向",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-006",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "屬",
+  "sentence": "屬予作文以記之。",
+  "definition": "囑託",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "囑",
+  "note": null
+ },
+ {
+  "id": "yueyang-007",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "具",
+  "sentence": "百廢具興。",
+  "definition": "全、皆",
+  "pos": "副詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "俱",
+  "note": null
+ },
+ {
+  "id": "yueyang-008",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "謫",
+  "sentence": "滕子京謫守巴陵郡。",
+  "definition": "貶官",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-009",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "越",
+  "sentence": "越明年，政通人和。",
+  "definition": "及、到了",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-010",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "政",
+  "sentence": "政通人和。",
+  "definition": "政事",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-011",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "通",
+  "sentence": "政通人和。",
+  "definition": "順利",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-012",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "和",
+  "sentence": "政通人和。",
+  "definition": "和睦",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-013",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "勝",
+  "sentence": "予觀夫巴陵勝狀，在洞庭一湖。",
+  "definition": "美好的、優勝的",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-014",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "狀",
+  "sentence": "予觀夫巴陵勝狀。",
+  "definition": "景色、狀貌",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-015",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "銜",
+  "sentence": "銜遠山，吞長江。",
+  "definition": "含、連接",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-016",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "吞",
+  "sentence": "銜遠山，吞長江。",
+  "definition": "吞納、包容",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-017",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "浩浩",
+  "sentence": "浩浩湯湯，橫無際涯。",
+  "definition": "廣闊無邊",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-018",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "湯湯",
+  "sentence": "浩浩湯湯，橫無際涯。",
+  "definition": "水流大而急",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-019",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "橫",
+  "sentence": "橫無際涯。",
+  "definition": "廣遠",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-020",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "際涯",
+  "sentence": "橫無際涯。",
+  "definition": "邊際",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-021",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "朝",
+  "sentence": "朝暉夕陰，氣象萬千。",
+  "definition": "早晨",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-022",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "暉",
+  "sentence": "朝暉夕陰。",
+  "definition": "日光",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-023",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "氣象",
+  "sentence": "氣象萬千。",
+  "definition": "景象",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-024",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "大觀",
+  "sentence": "此則岳陽樓之大觀也。",
+  "definition": "雄偉壯麗的景象",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-025",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "備",
+  "sentence": "前人之述備矣。",
+  "definition": "詳盡",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-026",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "霪雨",
+  "sentence": "若夫霪雨霏霏，連月不開。",
+  "definition": "連綿不斷的雨",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-027",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "霏霏",
+  "sentence": "若夫霪雨霏霏。",
+  "definition": "雨雪盛密的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-028",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "開",
+  "sentence": "連月不開。",
+  "definition": "放晴、散開",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-029",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "濁",
+  "sentence": "濁浪排空。",
+  "definition": "渾濁",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-030",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "排",
+  "sentence": "濁浪排空。",
+  "definition": "推、衝擊",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-031",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "薄",
+  "sentence": "薄暮冥冥，虎嘯猿啼。",
+  "definition": "迫近",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-032",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "冥冥",
+  "sentence": "薄暮冥冥。",
+  "definition": "昏暗",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-033",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "去",
+  "sentence": "去國懷鄉，憂讒畏譏。",
+  "definition": "離開",
+  "pos": "動詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指前往"
+ },
+ {
+  "id": "yueyang-034",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "國",
+  "sentence": "去國懷鄉。",
+  "definition": "國都、京城",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指國家"
+ },
+ {
+  "id": "yueyang-035",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "憂",
+  "sentence": "憂讒畏譏。",
+  "definition": "擔憂",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-036",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "讒",
+  "sentence": "憂讒畏譏。",
+  "definition": "讒言、壞話",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-037",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "譏",
+  "sentence": "憂讒畏譏。",
+  "definition": "譏諷、批評",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-038",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "蕭然",
+  "sentence": "滿目蕭然，感極而悲者矣。",
+  "definition": "蕭條冷落",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-039",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "至若",
+  "sentence": "至若春和景明，波瀾不驚。",
+  "definition": "至於",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-040",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "景",
+  "sentence": "春和景明。",
+  "definition": "日光",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-041",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "波",
+  "sentence": "波瀾不驚。",
+  "definition": "波浪",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-042",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "瀾",
+  "sentence": "波瀾不驚。",
+  "definition": "大波浪",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-043",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "驚",
+  "sentence": "波瀾不驚。",
+  "definition": "起伏、翻騰",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-044",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "上下",
+  "sentence": "上下天光，一碧萬頃。",
+  "definition": "天與湖",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-045",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "一",
+  "sentence": "一碧萬頃。",
+  "definition": "全、滿",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-046",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "萬頃",
+  "sentence": "一碧萬頃。",
+  "definition": "極廣闊",
+  "pos": "數量詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-047",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "翔",
+  "sentence": "沙鷗翔集。",
+  "definition": "飛翔",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-048",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "集",
+  "sentence": "沙鷗翔集。",
+  "definition": "棲止、聚集",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-049",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "錦",
+  "sentence": "錦鱗游泳。",
+  "definition": "美麗的",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-050",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "鱗",
+  "sentence": "錦鱗游泳。",
+  "definition": "魚（借代）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-051",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "芷",
+  "sentence": "岸芷汀蘭。",
+  "definition": "白芷（香草）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-052",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "汀",
+  "sentence": "岸芷汀蘭。",
+  "definition": "水邊平地",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-053",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "郁郁",
+  "sentence": "郁郁青青。",
+  "definition": "香氣濃烈、茂盛",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-054",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "長煙",
+  "sentence": "而或長煙一空，皓月千里。",
+  "definition": "大片煙霧",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-055",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "皓",
+  "sentence": "皓月千里。",
+  "definition": "潔白、光亮",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-056",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "浮光",
+  "sentence": "浮光躍金。",
+  "definition": "水面上的月光",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-057",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "靜影",
+  "sentence": "靜影沉璧。",
+  "definition": "水中的月影",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-058",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "璧",
+  "sentence": "靜影沉璧。",
+  "definition": "玉璧",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-059",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "偕",
+  "sentence": "寵辱偕忘。",
+  "definition": "一起",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-060",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "洋洋",
+  "sentence": "其喜洋洋者矣。",
+  "definition": "得意的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-061",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "嗟",
+  "sentence": "嗟夫！予嘗求古仁人之心。",
+  "definition": "唉（感嘆詞）",
+  "pos": "嘆詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-062",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "斯",
+  "sentence": "微斯人，吾誰與歸？",
+  "definition": "這",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-063",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "增",
+  "sentence": "乃重修岳陽樓，增其舊制。",
+  "definition": "擴大",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-064",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "制",
+  "sentence": "乃重修岳陽樓，增其舊制。",
+  "definition": "規模",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-065",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "遷客騷人",
+  "sentence": "遷客騷人，多會於此。",
+  "definition": "被貶謫的官員和失意的文人",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-066",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "會",
+  "sentence": "遷客騷人，多會於此。",
+  "definition": "聚集",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-067",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "得無",
+  "sentence": "覽物之情，得無異乎？",
+  "definition": "能不……嗎、豈不",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-068",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "廟堂",
+  "sentence": "居廟堂之高則憂其民。",
+  "definition": "朝廷",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "yueyang-069",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "江湖",
+  "sentence": "處江湖之遠則憂其君。",
+  "definition": "遠離朝廷的地方、民間",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指四方各地或社會上闖蕩的圈子"
+ },
+ {
+  "id": "yueyang-070",
+  "fanwen_code": "yueyang",
+  "piece": null,
+  "word": "微",
+  "sentence": "微斯人，吾誰與歸？",
+  "definition": "如果沒有",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-001",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "率",
+  "sentence": "六國互喪，率賂秦耶？",
+  "definition": "全都",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-002",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "蓋",
+  "sentence": "蓋失強援，不能獨完。",
+  "definition": "因為",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-003",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "完",
+  "sentence": "蓋失強援，不能獨完。",
+  "definition": "保全",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-004",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "患",
+  "sentence": "則秦之大欲，諸侯之大患。",
+  "definition": "禍患、憂患",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-005",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "固",
+  "sentence": "諸侯之大患，固不在戰矣。",
+  "definition": "本來",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-006",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "厥",
+  "sentence": "思厥先祖父，暴霜露，斬荊棘。",
+  "definition": "他們的",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-007",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "彌",
+  "sentence": "奉之彌繁，侵之愈急。",
+  "definition": "越加",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-008",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "事",
+  "sentence": "以地事秦，猶抱薪救火。",
+  "definition": "討好",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-009",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "猶",
+  "sentence": "以地事秦，猶抱薪救火。",
+  "definition": "好像",
+  "pos": "動詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-010",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "猶",
+  "sentence": "刺客不行，良將猶在。",
+  "definition": "仍然",
+  "pos": "副詞",
+  "categories": [
+   "一詞多義"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-011",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "與",
+  "sentence": "與嬴而不助五國也。",
+  "definition": "親附",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-012",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "義",
+  "sentence": "能守其土，義不賂秦。",
+  "definition": "堅守正義",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞，堅守道義"
+ },
+ {
+  "id": "liuguo-013",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "斯",
+  "sentence": "是故燕雖小國而後亡，斯用兵之效也。",
+  "definition": "這",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-014",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "速",
+  "sentence": "至丹以荊卿為計，始速禍焉。",
+  "definition": "招致",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-015",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "卻",
+  "sentence": "李牧連卻之。",
+  "definition": "擊退",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-016",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "洎",
+  "sentence": "洎牧以讒誅，邯鄲為郡。",
+  "definition": "及至",
+  "pos": "介詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-017",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "無",
+  "sentence": "為國者無使為積威之所劫哉。",
+  "definition": "不要",
+  "pos": "副詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "毋",
+  "note": null
+ },
+ {
+  "id": "liuguo-018",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "賂",
+  "sentence": "六國互喪，率賂秦耶？",
+  "definition": "賄賂",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-019",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "禮",
+  "sentence": "以事秦之心，禮天下之奇才。",
+  "definition": "禮待",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作動詞，以禮相待"
+ },
+ {
+  "id": "liuguo-020",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "從",
+  "sentence": "而從六國破亡之故事。",
+  "definition": "跟隨、重蹈",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-021",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "封",
+  "sentence": "封天下之謀臣。",
+  "definition": "封賞",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-022",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "苟",
+  "sentence": "苟以天下之大。",
+  "definition": "如果",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-023",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "誠",
+  "sentence": "戰敗而亡，誠不得已。",
+  "definition": "確實",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-024",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "兵",
+  "sentence": "六國破滅，非兵不利，戰不善。",
+  "definition": "兵器",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-025",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "弊",
+  "sentence": "弊在賂秦。",
+  "definition": "弊病、毛病",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-026",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "虧",
+  "sentence": "賂秦而力虧，破滅之道也。",
+  "definition": "虧損、削弱",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-027",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "道",
+  "sentence": "賂秦而力虧，破滅之道也。",
+  "definition": "原因、途徑",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-028",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "互喪",
+  "sentence": "六國互喪，率賂秦耶？",
+  "definition": "相繼滅亡",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-029",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "邑",
+  "sentence": "小則獲邑，大則得城。",
+  "definition": "城鎮",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-030",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "其實",
+  "sentence": "秦之所得，與戰勝而得者，其實百倍。",
+  "definition": "它的實際數量",
+  "pos": "詞組",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義為副詞，表示實際上"
+ },
+ {
+  "id": "liuguo-031",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "亡",
+  "sentence": "諸侯之所亡，與戰敗而亡者，其實亦百倍。",
+  "definition": "失去",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-032",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "先祖父",
+  "sentence": "思厥先祖父，暴霜露，斬荊棘。",
+  "definition": "祖輩和父輩",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指祖父"
+ },
+ {
+  "id": "liuguo-033",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "暴",
+  "sentence": "思厥先祖父，暴霜露，斬荊棘。",
+  "definition": "暴露、受（霜露）侵襲",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "曝",
+  "note": null
+ },
+ {
+  "id": "liuguo-034",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "視",
+  "sentence": "子孫視之不甚惜。",
+  "definition": "看待",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-035",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "舉",
+  "sentence": "舉以予人，如棄草芥。",
+  "definition": "全部",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-036",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "厭",
+  "sentence": "然則諸侯之地有限，暴秦之欲無厭。",
+  "definition": "滿足",
+  "pos": "動詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "饜",
+  "note": null
+ },
+ {
+  "id": "liuguo-037",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "奉",
+  "sentence": "奉之彌繁，侵之愈急。",
+  "definition": "奉送、獻給",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-038",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "判",
+  "sentence": "故不戰而強弱勝負已判矣。",
+  "definition": "分清、確定",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-039",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "至於",
+  "sentence": "至於顛覆，理固宜然。",
+  "definition": "以至於、到了",
+  "pos": "連詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多用作提起另一話題的介詞"
+ },
+ {
+  "id": "liuguo-040",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "宜",
+  "sentence": "至於顛覆，理固宜然。",
+  "definition": "應當",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-041",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "得",
+  "sentence": "此言得之。",
+  "definition": "得當、恰當",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-042",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "遷滅",
+  "sentence": "齊人未嘗賂秦，終繼五國遷滅。",
+  "definition": "滅亡（遷其國君、滅其國）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-043",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "遠略",
+  "sentence": "燕趙之君，始有遠略。",
+  "definition": "長遠的謀略",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-044",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "再",
+  "sentence": "後秦擊趙者再，李牧連卻之。",
+  "definition": "兩次",
+  "pos": "數詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義為又一次、再次"
+ },
+ {
+  "id": "liuguo-045",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "殆",
+  "sentence": "且燕趙處秦革滅殆盡之際。",
+  "definition": "幾乎",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-046",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "智力",
+  "sentence": "可謂智力孤危。",
+  "definition": "智謀和力量",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指智慧、腦力"
+ },
+ {
+  "id": "liuguo-047",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "向使",
+  "sentence": "向使三國各愛其地。",
+  "definition": "假如",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-048",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "數",
+  "sentence": "則勝負之數，存亡之理。",
+  "definition": "命運、定數",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-049",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "量",
+  "sentence": "當與秦相較，或未易量。",
+  "definition": "估計、衡量",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-050",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "西",
+  "sentence": "並力西向。",
+  "definition": "向西",
+  "pos": "名詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作狀語"
+ },
+ {
+  "id": "liuguo-051",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "積威",
+  "sentence": "而為秦人積威之所劫。",
+  "definition": "長期積累的威勢",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-052",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "劫",
+  "sentence": "而為秦人積威之所劫。",
+  "definition": "脅迫",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "liuguo-053",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "日削月割",
+  "sentence": "日削月割，以趨於亡。",
+  "definition": "一天天削減，一月月割讓",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "名詞用作狀語"
+ },
+ {
+  "id": "liuguo-054",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "故事",
+  "sentence": "而從六國破亡之故事。",
+  "definition": "舊事、先例",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指有情節的故事"
+ },
+ {
+  "id": "liuguo-055",
+  "fanwen_code": "liuguo",
+  "piece": null,
+  "word": "下",
+  "sentence": "是又在六國下矣。",
+  "definition": "下面，指不如",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-001",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "暝",
+  "sentence": "山居秋暝（題目）",
+  "definition": "日落、傍晚",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-002",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "歸",
+  "sentence": "竹喧歸浣女。",
+  "definition": "歸來",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-003",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "浣",
+  "sentence": "竹喧歸浣女。",
+  "definition": "洗滌",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-004",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "隨意",
+  "sentence": "隨意春芳歇。",
+  "definition": "任憑",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-005",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "歇",
+  "sentence": "隨意春芳歇。",
+  "definition": "凋謝",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-006",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "王孫",
+  "sentence": "王孫自可留。",
+  "definition": "隱者、自己（本指貴族子弟）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-007",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "空山",
+  "sentence": "空山新雨後，天氣晚來秋。",
+  "definition": "空寂的山林",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-008",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "新雨",
+  "sentence": "空山新雨後。",
+  "definition": "剛下過的雨",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-009",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "天氣",
+  "sentence": "空山新雨後，天氣晚來秋。",
+  "definition": "天色、天空的氣象",
+  "pos": "名詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指短時間內的氣象變化"
+ },
+ {
+  "id": "shi3-010",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "晚來",
+  "sentence": "天氣晚來秋。",
+  "definition": "傍晚、入夜",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-011",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "喧",
+  "sentence": "竹喧歸浣女。",
+  "definition": "喧鬧、發出聲響",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-012",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "下",
+  "sentence": "蓮動下漁舟。",
+  "definition": "順流而下",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-013",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "春芳",
+  "sentence": "隨意春芳歇。",
+  "definition": "春天的花草",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-014",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "自",
+  "sentence": "王孫自可留。",
+  "definition": "自然、仍然",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-015",
+  "fanwen_code": "shi3",
+  "piece": "山居秋暝",
+  "word": "留",
+  "sentence": "王孫自可留。",
+  "definition": "留下（隱居山中）",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-016",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "獨酌",
+  "sentence": "獨酌無相親。",
+  "definition": "獨自飲酒",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-017",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "相親",
+  "sentence": "獨酌無相親。",
+  "definition": "親近的人",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-018",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "既",
+  "sentence": "月既不解飲。",
+  "definition": "已經",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-019",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "解",
+  "sentence": "月既不解飲。",
+  "definition": "懂得、理解",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-020",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "徒",
+  "sentence": "影徒隨我身。",
+  "definition": "只是、白白地",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-021",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "將",
+  "sentence": "暫伴月將影。",
+  "definition": "和、共",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-022",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "及",
+  "sentence": "行樂須及春。",
+  "definition": "趁著",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-023",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "徘徊",
+  "sentence": "我歌月徘徊。",
+  "definition": "停留不進、起伏不定",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-024",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "零亂",
+  "sentence": "我舞影零亂。",
+  "definition": "散亂",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-025",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "交歡",
+  "sentence": "醒時同交歡。",
+  "definition": "一起歡樂",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-026",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "無情",
+  "sentence": "永結無情遊。",
+  "definition": "忘卻世情、不涉俗情",
+  "pos": "形容詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義指冷酷、沒有感情"
+ },
+ {
+  "id": "shi3-027",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "邈",
+  "sentence": "相期邈雲漢。",
+  "definition": "遙遠",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-028",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "邀",
+  "sentence": "舉杯邀明月，對影成三人。",
+  "definition": "邀請",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-029",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "暫",
+  "sentence": "暫伴月將影。",
+  "definition": "暫且",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-030",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "須",
+  "sentence": "行樂須及春。",
+  "definition": "應當",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-031",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "期",
+  "sentence": "相期邈雲漢。",
+  "definition": "約定",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-032",
+  "fanwen_code": "shi3",
+  "piece": "月下獨酌（其一）",
+  "word": "雲漢",
+  "sentence": "相期邈雲漢。",
+  "definition": "銀河、天河",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-033",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "客",
+  "sentence": "花近高樓傷客心。",
+  "definition": "客居他鄉的人（詩人自指）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-034",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "登臨",
+  "sentence": "萬方多難此登臨。",
+  "definition": "登高眺望",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-035",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "錦江",
+  "sentence": "錦江春色來天地。",
+  "definition": "地名（成都）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-036",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "來",
+  "sentence": "錦江春色來天地。",
+  "definition": "湧來、充滿",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-037",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "變",
+  "sentence": "玉壘浮雲變古今。",
+  "definition": "變幻無常",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-038",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "古今",
+  "sentence": "玉壘浮雲變古今。",
+  "definition": "古往今來",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-039",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "北極",
+  "sentence": "北極朝廷終不改。",
+  "definition": "北極星，比喻唐朝朝廷",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "北極星位置恆定，喻朝廷穩固"
+ },
+ {
+  "id": "shi3-040",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "寇盜",
+  "sentence": "西山寇盜莫相侵。",
+  "definition": "指吐蕃（敵人）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-041",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "侵",
+  "sentence": "西山寇盜莫相侵。",
+  "definition": "入侵",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-042",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "聊",
+  "sentence": "日暮聊為梁甫吟。",
+  "definition": "姑且、暫且",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-043",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "傷",
+  "sentence": "花近高樓傷客心。",
+  "definition": "使……傷感",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "使動用法"
+ },
+ {
+  "id": "shi3-044",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "萬方",
+  "sentence": "萬方多難此登臨。",
+  "definition": "全國各地",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-045",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "玉壘",
+  "sentence": "玉壘浮雲變古今。",
+  "definition": "山名，在今四川",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-046",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "終",
+  "sentence": "北極朝廷終不改。",
+  "definition": "始終、終究",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-047",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "莫",
+  "sentence": "西山寇盜莫相侵。",
+  "definition": "不要",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-048",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "可憐",
+  "sentence": "可憐後主還祠廟。",
+  "definition": "可歎、可惜",
+  "pos": "形容詞",
+  "categories": [
+   "古今異義"
+  ],
+  "tongjia": null,
+  "note": "今義多指值得同情"
+ },
+ {
+  "id": "shi3-049",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "後主",
+  "sentence": "可憐後主還祠廟。",
+  "definition": "蜀漢後主劉禪",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-050",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "還",
+  "sentence": "可憐後主還祠廟。",
+  "definition": "仍然、還有",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "shi3-051",
+  "fanwen_code": "shi3",
+  "piece": "登樓",
+  "word": "梁甫吟",
+  "sentence": "日暮聊為梁甫吟。",
+  "definition": "樂府曲名，相傳諸葛亮喜吟誦",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-001",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "大江",
+  "sentence": "大江東去，浪淘盡、千古風流人物。",
+  "definition": "長江",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-002",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "淘",
+  "sentence": "浪淘盡、千古風流人物。",
+  "definition": "沖洗",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-003",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "風流人物",
+  "sentence": "千古風流人物。",
+  "definition": "傑出的英雄人物",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-004",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "故壘",
+  "sentence": "故壘西邊，人道是、三國周郎赤壁。",
+  "definition": "舊時營壘",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-005",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "雪",
+  "sentence": "捲起千堆雪。",
+  "definition": "浪花",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-006",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "檣櫓",
+  "sentence": "檣櫓灰飛煙滅。",
+  "definition": "戰船",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-007",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "故國",
+  "sentence": "故國神遊，多情應笑我，早生華髮。",
+  "definition": "舊地",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-008",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "華髮",
+  "sentence": "早生華髮。",
+  "definition": "白髮",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-009",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "尊",
+  "sentence": "一尊還酹江月。",
+  "definition": "酒杯",
+  "pos": "名詞",
+  "categories": [
+   "通假字"
+  ],
+  "tongjia": "樽",
+  "note": null
+ },
+ {
+  "id": "ci3-010",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "酹",
+  "sentence": "一尊還酹江月。",
+  "definition": "灑酒祭奠",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-011",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "周郎",
+  "sentence": "人道是、三國周郎赤壁。",
+  "definition": "周瑜",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-012",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "穿空",
+  "sentence": "亂石穿空，驚濤拍岸。",
+  "definition": "直插天空",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-013",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "豪傑",
+  "sentence": "江山如畫，一時多少豪傑。",
+  "definition": "才能出眾的人",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-014",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "遙想",
+  "sentence": "遙想公瑾當年。",
+  "definition": "追想遠古之事",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-015",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "英發",
+  "sentence": "小喬初嫁了，雄姿英發。",
+  "definition": "才華橫溢、意氣風發",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-016",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "羽扇綸巾",
+  "sentence": "羽扇綸巾，談笑間、檣櫓灰飛煙滅。",
+  "definition": "手拿羽扇，頭戴青絲頭巾（儒將裝束）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-017",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "神遊",
+  "sentence": "故國神遊，多情應笑我，早生華髮。",
+  "definition": "在想像中遊歷",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-018",
+  "fanwen_code": "ci3",
+  "piece": "念奴嬌·赤壁懷古",
+  "word": "多情應笑我",
+  "sentence": "故國神遊，多情應笑我，早生華髮。",
+  "definition": "應笑我多情",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": "倒裝句"
+ },
+ {
+  "id": "ci3-019",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "將息",
+  "sentence": "乍暖還寒時候，最難將息。",
+  "definition": "調養",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-020",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "乍",
+  "sentence": "乍暖還寒時候。",
+  "definition": "剛",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-021",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "敵",
+  "sentence": "三杯兩盞淡酒，怎敵他、晚來風急？",
+  "definition": "抵擋",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-022",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "晚來",
+  "sentence": "怎敵他、晚來風急？",
+  "definition": "傍晚、入夜",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-023",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "舊時相識",
+  "sentence": "雁過也，正傷心，卻是舊時相識。",
+  "definition": "從前認識的（指大雁）",
+  "pos": "詞組",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-024",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "黃花",
+  "sentence": "滿地黃花堆積。",
+  "definition": "菊花",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-025",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "憔悴",
+  "sentence": "憔悴損，如今有誰堪摘？",
+  "definition": "枯萎",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-026",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "堪",
+  "sentence": "如今有誰堪摘？",
+  "definition": "可以",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-027",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "怎生",
+  "sentence": "獨自怎生得黑？",
+  "definition": "怎樣",
+  "pos": "疑問代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-028",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "次第",
+  "sentence": "這次第，怎一個愁字了得？",
+  "definition": "光景、狀況",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-029",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "了得",
+  "sentence": "怎一個愁字了得？",
+  "definition": "概括",
+  "pos": "動詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-030",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "戚戚",
+  "sentence": "尋尋覓覓，冷冷清清，淒淒慘慘戚戚。",
+  "definition": "憂愁的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-031",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "還",
+  "sentence": "乍暖還寒時候，最難將息。",
+  "definition": "又",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-032",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "損",
+  "sentence": "憔悴損，如今有誰堪摘？",
+  "definition": "極、甚",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-033",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "黑",
+  "sentence": "守著窗兒，獨自怎生得黑？",
+  "definition": "天黑",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-034",
+  "fanwen_code": "ci3",
+  "piece": "聲聲慢",
+  "word": "更兼",
+  "sentence": "梧桐更兼細雨，到黃昏、點點滴滴。",
+  "definition": "再加上",
+  "pos": "連詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-035",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "花千樹",
+  "sentence": "東風夜放花千樹。",
+  "definition": "比喻燈火繁多，如千樹花開",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-036",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "星如雨",
+  "sentence": "更吹落、星如雨。",
+  "definition": "比喻煙火紛紛落下，如流星雨",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-037",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "寶馬雕車",
+  "sentence": "寶馬雕車香滿路。",
+  "definition": "名貴的馬和華麗的車",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-038",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "鳳簫",
+  "sentence": "鳳簫聲動。",
+  "definition": "排簫",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-039",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "玉壺",
+  "sentence": "玉壺光轉。",
+  "definition": "月亮（一說指燈）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-040",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "魚龍",
+  "sentence": "一夜魚龍舞。",
+  "definition": "魚形龍形的燈",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-041",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "盈盈",
+  "sentence": "笑語盈盈暗香去。",
+  "definition": "儀態美好的樣子",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-042",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "暗香",
+  "sentence": "笑語盈盈暗香去。",
+  "definition": "美人（借代）",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-043",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "千百度",
+  "sentence": "眾里尋他千百度。",
+  "definition": "千百次",
+  "pos": "數量詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-044",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "驀然",
+  "sentence": "驀然回首。",
+  "definition": "突然",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-045",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "闌珊",
+  "sentence": "那人卻在，燈火闌珊處。",
+  "definition": "零落、將盡",
+  "pos": "形容詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-046",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "東風",
+  "sentence": "東風夜放花千樹。",
+  "definition": "春風",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-047",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "放",
+  "sentence": "東風夜放花千樹。",
+  "definition": "使……開放",
+  "pos": "動詞",
+  "categories": [
+   "詞類活用"
+  ],
+  "tongjia": null,
+  "note": "使動用法"
+ },
+ {
+  "id": "ci3-048",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "更",
+  "sentence": "更吹落、星如雨。",
+  "definition": "又、再",
+  "pos": "副詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-049",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "蛾兒雪柳黃金縷",
+  "sentence": "蛾兒雪柳黃金縷，笑語盈盈暗香去。",
+  "definition": "婦女元宵節所戴的頭飾",
+  "pos": "名詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ },
+ {
+  "id": "ci3-050",
+  "fanwen_code": "ci3",
+  "piece": "青玉案·元夕",
+  "word": "他",
+  "sentence": "眾裏尋他千百度。",
+  "definition": "那人（泛指，不限男性）",
+  "pos": "代詞",
+  "categories": [
+   "一般"
+  ],
+  "tongjia": null,
+  "note": null
+ }
+]
